@@ -1,1 +1,2 @@
-# C-C--BookBorrowingSystem
+# bookBorrowingSystem
+  主要以Switch Case的方式讓使用者操作系統，每個選項皆有對應之物件導向程式回應，並以寫入/讀取記事本的方式存檔/讀檔，建立起專屬使用者的借書紀錄。
